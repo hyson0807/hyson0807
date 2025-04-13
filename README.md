@@ -1,2 +1,3 @@
-Hello~~~
-This is Hyunsung Sim 
+#Hyunsung Sim
+
+#I want App Developer
