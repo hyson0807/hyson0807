@@ -4,12 +4,9 @@
 
   ### 📱 App Developer | Expo & React Native Specialist
 
-  [![Website](https://img.shields.io/badge/Website-linkjob.kr-blue?style=for-the-badge)](https://lin
-  kjob.kr)
-  [![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app
-  le)](https://apps.apple.com/kr/app/링크잡-linkjob-말-통하는-외국인-채용/id6749147143)
-  [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo
-  =googleplay)](https://play.google.com/store/apps/details?id=com.welkit.kgency)
+  [![Website](https://img.shields.io/badge/Website-linkjob.kr-blue?style=for-the-badge)](https://linkjob.kr)
+  [![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple)](https://apps.apple.com/kr/app/링크잡-linkjob-말-통하는-외국인-채용/id6749147143)
+  [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=googleplay)](https://play.google.com/store/apps/details?id=com.welkit.kgency)
 
   </div>
 
@@ -28,28 +25,19 @@
   ## 🛠 Tech Stack
 
   ### Mobile Development
-  ![Expo](https://img.shields.io/badge/Expo-SDK%2053-000020?style=for-the-badge&logo=expo&logoColor=
-  white)
-  ![React Native](https://img.shields.io/badge/React%20Native-0.79.5-61DAFB?style=for-the-badge&logo
-  =react&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescri
-  pt&logoColor=white)
+  ![Expo](https://img.shields.io/badge/Expo-SDK%2053-000020?style=for-the-badge&logo=expo&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React%20Native-0.79.5-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
   ### Backend & Database
-  ![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js&logoCol
-  or=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=for-the-badge&logo=postgresq
-  l&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-BaaS-3ECF8E?style=for-the-badge&logo=supabase&lo
-  goColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-18-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-BaaS-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
   ### Tools & Services
-  ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor
-  =white)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=for-the-badge&logo=socke
-  t.io&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor
-  =white)
+  ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
   ## 📱 Featured Project: LinkJob
 
@@ -64,8 +52,7 @@
   ### 📊 Project Stats
   ![Version](https://img.shields.io/badge/Version-1.3.3-green?style=for-the-badge)
   ![Languages](https://img.shields.io/badge/Languages-12-blue?style=for-the-badge)
-  ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=for-the-badg
-  e)
+  ![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-lightgrey?style=for-the-badge)
 
   ## 📫 Contact
 
