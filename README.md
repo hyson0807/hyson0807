@@ -65,7 +65,7 @@
   <div align="center">
 
 
-  Made with ❤️ by Hyunsung Sim
+  Made with Hyunsung Sim
 
   </div>
 
