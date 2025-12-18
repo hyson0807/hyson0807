@@ -9,4 +9,4 @@
                                                                                                                                                                                                                                         
   ## Contact                                                                                                                                                                                                                            
   - Personal Email: simsgood0807@gmail.com
-  - Business Email: simsgood0807@gmail.com         
+  - Business Email: contact@hyson.kr         
