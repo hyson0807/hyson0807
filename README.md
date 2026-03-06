@@ -1,6 +1,6 @@
  # 안녕하세요, Hyunsung Sim입니다                                                                                                                                                                                                      
                                                                                                                                                                                                                                         
-  React Native로 크로스 플랫폼 앱을 만듭니다.                                                                                                                                                                                           
+                                                                                                                                                                                         
                                                                                                                                                                                                                                         
   ## Projects                                                                                                                                                                                                                           
                                                                                                                                                                                                                                         
